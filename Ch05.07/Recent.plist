@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>date</key>
+		<string>刚刚</string>
+		<key>image</key>
+		<string>1.png</string>
+		<key>name</key>
+		<string>张三</string>
+		<key>text</key>
+		<string>好的。卡刷积分卡上就发生开发哈斯卡回复看手机福克斯是看得见法卡斯</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2分钟前</string>
+		<key>image</key>
+		<string>2.png</string>
+		<key>name</key>
+		<string>李四</string>
+		<key>text</key>
+		<string>真的吗?</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>10：00</string>
+		<key>image</key>
+		<string>3.png</string>
+		<key>name</key>
+		<string>博看文思</string>
+		<key>text</key>
+		<string>[表情]</string>
+	</dict>
+</array>
+</plist>
